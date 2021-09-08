@@ -1,5 +1,7 @@
 # Taiwan Energy Generation CLI
 
+![Demonstration screenshot of CLI output!](/sample.png "Demonstration screenshot of Taiwan Energy Generation CLI")
+
 This CLI tool provides a breakdown of the latest energy generation data for Taiwan. Results are displayed by:
 
 - Current low-carbon energy generation
