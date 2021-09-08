@@ -26,8 +26,8 @@ You can customise the command by editing the `package.json` file.
 
 ```json
 "bin": {
-		"tw-energy": "index.js",
-		"energy": "index.js",
-        "YOUR-CUSTOM-COMMAND": "index.js"
-	},
+    "tw-energy": "index.js",
+    "energy": "index.js",
+    "YOUR-CUSTOM-COMMAND": "index.js"
+},
 ```
